@@ -1,6 +1,9 @@
 # Object-detection
 Object detection
 
+Time taken : 
+
+Task 2 : 1 day
 
 ## Files
 This repo contains three files
