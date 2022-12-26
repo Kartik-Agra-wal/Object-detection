@@ -6,9 +6,14 @@ Object detection
 This repo contains three files
 
 **1.detection_with_tracker.py**
-This is the implementation of object detection on cans using yolov5 and norfair tracker
+This is the implementation of object detection on cans using yolov5 and norfair tracker.
+
+You can install the tracker package from their repo.
 
 https://github.com/tryolabs/norfair
+
+You also need the model
+https://drive.google.com/file/d/1FVVLCxjBQjz1d-lEP0eOxT96MvKFm33R/view?usp=sharing
 
 The script is tested on three samples:
 1. static objects 
