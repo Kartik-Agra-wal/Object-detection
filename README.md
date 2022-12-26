@@ -13,29 +13,17 @@ https://github.com/tryolabs/norfair
 The script is tested on three samples:
 1. static objects 
 
-
-
-
-
-
-
-
-https://user-images.githubusercontent.com/87862080/209580336-be65951d-433a-4938-9c6c-d4e15ad7ab1f.mp4
-
+https://drive.google.com/file/d/1Vcs12jlA15qiITGhBCDqfqSWpzex_A2B/view?usp=sharing
 
 
 2. moving object
-
-
-
-https://user-images.githubusercontent.com/87862080/209577749-583e2aa4-9d8f-4e4a-a5ee-c5c5b669175a.mp4
+https://drive.google.com/file/d/1oM85jwkMhTeP994YYnwTEBZvXTR-UPWu/view?usp=sharing
 
 
 
 3. static and moving objects 
 
-
-https://user-images.githubusercontent.com/87862080/209577761-564ec7ea-514d-4fed-ae44-06b705a72023.mp4
+https://drive.google.com/file/d/1TWf41zT4TByZjuYJqxhRz8dKR9LJs0hf/view?usp=sharing
 
 
 
@@ -44,22 +32,19 @@ This scripts uses color masks to detect coke and sprite cans wihtout using any m
 1. on static objects
 
 
-https://user-images.githubusercontent.com/87862080/209577840-384f1529-8383-4a7d-90e2-2b5e2d983330.mp4
+https://drive.google.com/file/d/1yKokKINwFehH0zpI4a0Rs1AKk4hnUYo3/view?usp=sharing
 
 2. on moving object
 
-
-
-https://user-images.githubusercontent.com/87862080/209577872-a974d98a-385a-45b3-8359-432189a6b143.mp4
+https://drive.google.com/file/d/1r61vilEaqfLnR6R00atUHv51A6AsnPx8/view?usp=sharing
 
 
 **3. depth_estimation.py**
 This script uses a reference image to calcluate the focal lenghth of the camera using known paramaeters and uses it to estimate objects depth detected by the ml model or the color mask.
 
-https://user-images.githubusercontent.com/87862080/209578003-c5397a25-6116-46b9-925b-728f8cba5850.mp4
+https://drive.google.com/file/d/1zPFMDtL5YMpjjAwP3VFBlszggrMB67vd/view?usp=sharing
 
 
-
-https://user-images.githubusercontent.com/87862080/209578018-6f71a225-e700-4cad-a926-fc4842168cbd.mp4
+https://drive.google.com/file/d/1lSxhcf8_b2qwuCe_3qSrbXNGpDvb8Fz3/view?usp=sharing
 
 
