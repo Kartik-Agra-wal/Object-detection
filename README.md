@@ -4,7 +4,7 @@ Object detection
 Time taken : 
 
 Task 2 : 1 day
-
+Task 3 : 4 days
 ## Files
 This repo contains three files
 
